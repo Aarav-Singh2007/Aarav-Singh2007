@@ -2,10 +2,14 @@
 
 🧠Computer Science First year Student
 <br>
-🪻Targeting for GSOC 2026😊
-<br>
+
 🦅Python+DSA in progress...
 <br>
+### 🌱 Currently Learning
+- 🔭 Building beginner projects using Python
+- 👯 Contributing to open source (preparing for GSoC)
+- 📘 Practicing DSA problems on LeetCode & GFG
+
 🥂Connect with me on Instagram💙💙[Instagram]<https://www.instagram.com/aarav.singh_13/>
 
 # 💻 Tech Stack:
