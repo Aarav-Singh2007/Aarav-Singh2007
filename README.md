@@ -3,7 +3,7 @@
 🧠Computer Science First year Student
 <br>
 
-🦅Python+DSA in progress...
+🦅DSA in progress...
 <br>
 ### 🌱 Currently Learning
 - 🔭 Building beginner projects using Python
