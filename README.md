@@ -7,7 +7,6 @@
 <br>
 ### 🌱 Currently Learning
 - 🔭 Building beginner projects using Python
-- 👯 Contributing to open source (preparing for GSoC)
 - 📘 High on Web Developemnt
 
 <br>
