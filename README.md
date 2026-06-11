@@ -10,6 +10,7 @@
 - 📘 High on Web Developemnt
 
 <br>
+![](https://komarev.com/ghpvc/?username=Aarav-Singh2007&color=blue)
 
 
 
